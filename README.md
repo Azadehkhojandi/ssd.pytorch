@@ -19,11 +19,11 @@ A [PyTorch](http://pytorch.org/) implementation of [Single Shot MultiBox Detecto
 &nbsp;
 &nbsp;
 
-## Installation
+## Installation Guide
 
 - follow [steps on my blog post](https://azadehkhojandi.blogspot.com/2018/11/single-shot-multibox-detector-with.html)
 
-## Installation refrence 
+## Installation reference 
 
 - Install [PyTorch](http://pytorch.org/) by selecting your environment on the website and running the appropriate command.
 - Clone this repository.
