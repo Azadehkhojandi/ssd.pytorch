@@ -21,7 +21,7 @@ A [PyTorch](http://pytorch.org/) implementation of [Single Shot MultiBox Detecto
 
 ## Installation Guide
 
-- follow [steps on my blog post](https://azadehkhojandi.blogspot.com/2018/11/single-shot-multibox-detector-with.html)
+- Follow [Installation steps](https://azadehkhojandi.blogspot.com/2018/11/single-shot-multibox-detector-with.html)
 
 ## Installation reference 
 
